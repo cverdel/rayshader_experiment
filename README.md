@@ -1,6 +1,6 @@
 # Rayshader experiment
 
-Trial script to make rayshader maps. This will produce a #D render in an rgl window, as well as a @D, shaded relief map.
+Trial script to make rayshader maps. This will produce a 3D render in an rgl window, as well as a 2D, shaded relief map.
 
 ```
 require(rayshader)
