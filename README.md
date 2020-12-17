@@ -1,5 +1,9 @@
 # Rayshader experiment
 
+![alt text][hermannsburg_plot]
+
+[hermannsburg_plot]: https://github.com/cverdel/rayshader_experiment/blob/main/image3.png?raw=true
+
 Trial script to make rayshader maps. This will produce a 3D render in an rgl window, as well as a 2D, shaded relief map.
 
 ```
